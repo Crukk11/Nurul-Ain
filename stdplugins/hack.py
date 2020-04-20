@@ -48,7 +48,7 @@ async def _(event):
             "`Hacking... 52%\n█████████████▒▒▒▒▒▒▒▒▒▒▒▒ `",
             "`Hacking... 84%\n█████████████████████▒▒▒▒ `",
             "`Hacking... 100%\n█████████HACKED███████████ `",
-            "`Targeted Account Hacked...\n\nPay 999.99$ To` @HafizZiq `To Remove This Hack`"
+            "`Targeted Account Hacked...\n\nPay 999.99$ To` {:|] `To Remove This Hack`"
         ]
 
         for i in animation_ttl:
